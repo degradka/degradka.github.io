@@ -1,0 +1,59 @@
+.header-lights {
+    width: 100%;
+    height: 29px;
+    background-image: url('gifs/christmas_lights.gif');
+    background-repeat: repeat-x;
+    background-position: center;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+body {
+	background: #000 url('gifs/background_black.gif') repeat;
+	color: #00ff00;
+	font-family: 'Comic Sans MS', cursive;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	color: #ff00ff;
+}
+
+table {
+	/*border: 2px solid #ffff00;*/
+	margin: 20px auto;
+    padding: 20px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+.busy-background {
+	background: url('busy-background.gif');
+}
+
+.marquee {
+	/*border: 2px solid #0000ff;*/
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.gif-container img {
+    max-width: 100px;
+    margin: 0 5px;
+}
