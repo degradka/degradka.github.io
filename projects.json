@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Minecraft Pre-Classic C Rewrite",
+    "desc": "A project to recreate Minecraft Preclassic (RubyDung) versions from scratch in pure C.",
+    "img": "projects/rubydung.jpg",
+    "status": "Finished",
+    "link": "https://github.com/degradka/mc-preclassic-c"
+  },
+  {
+    "title": "Exoplanet Rocket SF-2",
+    "desc": "My team's second solid fuel rocket project. Like SF-1 but with a payload that deploys at 120 meters after apogee. Aiming for more complexity and reliability.",
+    "img": "projects/rocket_sf2.jpg",
+    "status": "Ongoing",
+    "link": ""
+  },
+  {
+    "title": "Exoplanet Rocket SF-1",
+    "desc": "My team's first solid fuel rocket. It had to save itself by releasing a parachute after apogee and send telemetry data to a custom ground station.",
+    "img": "projects/rocket_sf1.jpg",
+    "status": "Finished",
+    "link": ""
+  },
+  {
+    "title": "Exoplanet Dashboard",
+    "desc": "A dashboard written in C# to display rocket telemetry data like altitude and speed in live graphs. Helps analyze rocket flights in real time.",
+    "img": "projects/exoplanet_dashboard.png",
+    "status": "Finished",
+    "link": "https://github.com/degradka/ExoplanetDashboard"
+  },
+   {
+    "title": "Exoplanet Rocket Electronics",
+    "desc": "Code and hardware for Exoplanet’s rocket systems, including the rocket’s onboard controller and the ground receiver station for telemetry.",
+    "img": "projects/exoplanet_pcbs.jpg",
+    "status": "Finished",
+    "link": "https://github.com/degradka/exoplanet_rocket"
+  },
+  {
+    "title": "Teaching Appointment Bot",
+    "desc": "A Telegram bot I built commercially for online teaching. Students can schedule lessons and choose how much time they need. Teachers get an admin panel to manage their availability and bookings.",
+    "img": "projects/tgbot.png",
+    "status": "Finished",
+    "link": ""
+  },
+  {
+    "title": "LED Matrix Magic",
+    "desc": "A 16x16 LED matrix controller using an ESP8266 and WS2812B LEDs. Controlled through a web interface for real-time drawing and custom light shows.",
+    "img": "projects/ledmatrix.jpg",
+    "status": "Finished",
+    "link": "https://github.com/degradka/led-matrix-magic"
+  },
+  {
+    "title": "Bryce3D Source Restoration",
+    "desc": "A private project where I’m reverse engineering and trying to restore the old Bryce3D 3.1 source code from 1997. It’s part software archaeology and part nostalgia.",
+    "img": "projects/bryce3d.jpg",
+    "status": "Paused",
+    "link": ""
+  },
+  {
+    "title": "ShellSaga",
+    "desc": "A web-based text adventure styled like a terminal session where you play through a story and learn Bash commands along the way.",
+    "img": "projects/shellsaga.png",
+    "status": "Paused",
+    "link": "https://github.com/degradka/shellsaga"
+  },
+  {
+    "title": "Hammer Units Conversion Tool",
+    "desc": "A Rust desktop app with a simple GUI to convert real-world measurements to Valve Hammer units and back. Useful for making maps for Source engine games.",
+    "img": "projects/huct.png",
+    "status": "Abandoned",
+    "link": "https://github.com/degradka/hammer-units-conversion-tool"
+  },
+  {
+    "title": "Pop or Fail",
+    "desc": "A small game written in pure C for the 20 Second Game Jam. The goal is to pop balloons as fast as you can before the timer runs out.",
+    "img": "projects/poporfail.png",
+    "status": "Finished",
+    "link": "https://github.com/degradka/pop-or-fail"
+  },
+  {
+    "title": "Hungry Pumpkin Godot Remake",
+    "desc": "A complete remake of the classic Hungry Pumpkin game in Godot. Fully open source and available on itch.io. Same vibes as the original but cleaner.",
+    "img": "projects/hungrypumpkin.jpg",
+    "status": "Finished",
+    "link": "https://github.com/degradka/hungry_pumpkin"
+  },
+  {
+    "title": "MouseMoverLib-C",
+    "desc": "A small C library for moving the mouse automatically on X11 systems. Useful for keeping your session awake or automating UI tests.",
+    "img": "projects/mousemover.png",
+    "status": "Paused",
+    "link": "https://github.com/degradka/mousemoverlib-c"
+  }
+]
