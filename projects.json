@@ -1,5 +1,12 @@
 [
   {
+    "title": "Minecraft Classic C Rewrite",
+    "desc": "A project to recreate Minecraft Classic versions from scratch in pure C.",
+    "img": "projects/mcclassic.jpg",
+    "status": "Ongoing",
+    "link": "https://github.com/degradka/mc-classic-c"
+  },
+  {
     "title": "Minecraft Pre-Classic C Rewrite",
     "desc": "A project to recreate Minecraft Preclassic (RubyDung) versions from scratch in pure C.",
     "img": "projects/rubydung.jpg",
